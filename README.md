@@ -1,1 +1,8 @@
-# SC_302_Documentacion_MN_JosueR
+# SC\_302\_Documentacion\_MN\_JosueR
+
+
+
+
+
+Esta es mi primera práctica con GitHub.
+
